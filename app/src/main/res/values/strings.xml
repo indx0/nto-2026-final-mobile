@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Work</string>
+    <string name="title_activity_root">RootActivity</string>
+
+    <string name="auth_title">Добро пожаловать</string>
+    <string name="auth_login_label">Логин</string>
+    <string name="auth_password_label">Пароль</string>
+    <string name="auth_login_placeholder">Введите логин</string>
+    <string name="auth_password_placeholder">Введите пароль</string>
+    <string name="auth_sign_in">Войти</string>
+
+
+    <string name="main_refresh">Обновить</string>
+    <string name="main_logout">Выйти</string>
+    <string name="main_add">Добавить</string>
+
+    <string name="book_add">Забронировать</string>
+    <string name="book_back">Назад</string>
+    <string name="book_empty">Всё забронировано</string>
+
+    <string name="auth_too_many_attempts">Слишком много попыток, обратитесь к администратору</string>
+    <string name="auth_unauthorised">Вы не авторизованы</string>
+    <string name="network_is_unreachable">Отсутствует подключение к интернету</string>
+</resources>
